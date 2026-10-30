@@ -1,5 +1,8 @@
 # Game Voice Reader
 
+<img width="532" height="598" alt="Screenshot 2026-10-30 222639" src="https://github.com/user-attachments/assets/72a4b3b1-4d96-4917-a3ff-0e4014393e8c" />
+
+
 Select any area of your screen and have it read aloud. It uses Windows OCR to read the text and a text-to-speech voice to speak it. It works in games, launchers and anywhere else text can't be selected or copied.
 
 Written in AutoHotkey v2 with a simple settings window.
