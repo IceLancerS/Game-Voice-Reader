@@ -2,7 +2,7 @@
 
 <img width="532" height="598" alt="Screenshot 2026-10-30 222639" src="https://github.com/user-attachments/assets/72a4b3b1-4d96-4917-a3ff-0e4014393e8c" />
 
-[![Watch the video](https://youtube.com)](https://youtu.be/cTRi3w8FAFM)
+https://github.com/user-attachments/assets/1607e5de-41a2-4044-bdcf-0dba0eed5b18
 
 
 
