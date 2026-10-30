@@ -8,6 +8,8 @@ https://github.com/user-attachments/assets/1607e5de-41a2-4044-bdcf-0dba0eed5b18
 
 Select any area of your screen and have it read aloud. It uses Windows OCR to read the text and a text-to-speech voice to speak it. It works in games, launchers and anywhere else text can't be selected or copied.
 
+**Clever use of this app is also when you play games that often writes new text in same location. Once selected zone you can just repeat reading selected zone and new text will be read.**
+
 Written in AutoHotkey v2 with a simple settings window.
 
 ## Features
